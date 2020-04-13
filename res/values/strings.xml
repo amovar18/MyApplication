@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="ques1">What are your sources? How is the data gathered for this project?</string>
+    <string name="ques2">Why does covid19india.org have more positive count than MoH?</string>
+    <string name="ques3">Who are you?</string>
+    <string name="ques4">Are you official?</string>
+    <string name="ques5"></string>
+    <string name="ans1">We have used the API provided by covid19india.org and covid19api.com. API is available for all at api.covid19india.org. We would love it if you can use this data in the fight against this virus. The source list is here.</string>
+    <string name="ans2">MoHFW updates the data at a scheduled time. However, we update them based on state press bulletins, official handles and reliable news channels which could be more recent.</string>
+    <string name="ans3">We are a group of volunteers who are willing to create awareness about the disease and with the help of official sources bring you the data from verified sources </string>
+    <string name="ans4">No</string>
+    <string name="ans5"></string>
+    <string name="bottom1">WE STAND WITH EVERYONE FIGHTING ON THE FRONTLINES</string>
+    <string name="bottom2">COVID19INDIA</string>
+
+
+</resources>
